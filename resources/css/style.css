@@ -44,3 +44,10 @@ footer {
   background-color: dimgray;
   text-align: left;
 }
+footer ul, footer li {
+  display: inline-block;
+}
+footer ul {
+  margin: unset;
+  padding: unset;
+}
